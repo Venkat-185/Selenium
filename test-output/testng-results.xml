@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95" started-at="2022-07-04T16:22:07 IST" finished-at="2022-07-04T16:22:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95" started-at="2022-07-04T16:22:07 IST" finished-at="2022-07-04T16:22:07 IST">
+      <class name="com.testng.Demo">
+        <test-method status="PASS" signature="demoPassword()[pri:0, instance:com.testng.Demo@4d50efb8]" name="demoPassword" duration-ms="16" started-at="2022-07-04T16:22:07 IST" finished-at="2022-07-04T16:22:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoPassword -->
+        <test-method status="PASS" signature="demoUsername()[pri:0, instance:com.testng.Demo@4d50efb8]" name="demoUsername" duration-ms="3" started-at="2022-07-04T16:22:07 IST" finished-at="2022-07-04T16:22:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoUsername -->
+      </class> <!-- com.testng.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
